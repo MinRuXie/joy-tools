@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkvue3_tools"]=self["webpackChunkvue3_tools"]||[]).push([[491],{491:function(e,n,s){s.r(n),s.d(n,{default:function(){return k}});var r=s(6768);const t={class:"page-wrap works"},u=(0,r.Lk)("h2",null,"小工具",-1),o={class:"page-inner"};function a(e,n,s,a,c,l){const i=(0,r.g2)("router-view");return(0,r.uX)(),(0,r.CE)("div",t,[u,(0,r.Lk)("section",o,[(0,r.bF)(i)])])}var c={name:"TheWorks",setup(){}},l=s(1241);const i=(0,l.A)(c,[["render",a]]);var k=i}}]);
-//# sourceMappingURL=491.1efdcfbd.js.map
