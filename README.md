@@ -1,5 +1,5 @@
 # 小工具整合專案
-* `首頁` https://minruxie.github.io/joy-tools/#/
+* https://minruxie.github.io/joy-tools/#/
 
 
 ## [最後更新年份] 目錄
