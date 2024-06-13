@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3_tools"]=self["webpackChunkvue3_tools"]||[]).push([[357],{4357:function(e,n,r){r.r(n),r.d(n,{default:function(){return i}});var u=r(6768);const t={class:"wrapper-inner works"};function s(e,n,r,s,o,c){const a=(0,u.g2)("router-view");return(0,u.uX)(),(0,u.CE)("div",t,[(0,u.bF)(a)])}var o={name:"ThePublic",setup(){}},c=r(1241);const a=(0,c.A)(o,[["render",s]]);var i=a}}]);
+//# sourceMappingURL=357.cc6cac3a.js.map
