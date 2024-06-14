@@ -11,4 +11,5 @@
 * [2024] 請款單產生器：https://minruxie.github.io/joy-tools/#/public/bill-generator
 * [2024] 比例計算機：https://minruxie.github.io/joy-tools/#/public/ratio-aspect
 * [2024] 國高中英文單字字典：https://minruxie.github.io/joy-tools/#/public/word-dictionary
+* [2024] 檢測裝置尺寸：https://minruxie.github.io/joy-tools/#/public/device-size
 * 陸續更新中...
