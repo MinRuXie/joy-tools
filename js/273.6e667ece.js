@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3_tools"]=self["webpackChunkvue3_tools"]||[]).push([[273],{6273:function(n,u,e){e.r(u),e.d(u,{default:function(){return c}});var t=e(6768);function r(n,u,e,r,o,s){return(0,t.uX)(),(0,t.CE)("h1",null,"Hi! 你誤入404頁面了")}var o={name:"NotFound"},s=e(1241);const a=(0,s.A)(o,[["render",r]]);var c=a}}]);
+//# sourceMappingURL=273.6e667ece.js.map
