@@ -13,4 +13,5 @@
 * [2024] 國高中英文單字字典：https://minruxie.github.io/joy-tools/#/public/word-dictionary
 * [2024] 檢測裝置尺寸：https://minruxie.github.io/joy-tools/#/public/device-size
 * [2024] 圖片格狀拼版工具：https://minruxie.github.io/joy-tools/#/public/sixteen-grider
+* [2024] 連續圖片預覽工具：https://minruxie.github.io/joy-tools/#/public/serial-pictures-reader
 * 陸續更新中...
