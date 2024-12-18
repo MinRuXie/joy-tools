@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{a as o,c}from"./index-Z7JVEGZy.js";const r={};function t(n,a){return o(),c("h1",null,"Hi! 你誤入404頁面了")}const f=e(r,[["render",t]]);export{f as default};
