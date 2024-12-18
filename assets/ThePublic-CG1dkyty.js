@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{r,a as t,c as s,d as c}from"./index-B9zeznOU.js";const n={name:"ThePublic",setup(){}},a={class:"wrapper-inner works"};function p(_,i,m,u,d,l){const e=r("router-view");return t(),s("div",a,[c(e)])}const v=o(n,[["render",p]]);export{v as default};
