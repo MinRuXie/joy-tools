@@ -1,1 +1,0 @@
-import{o as e,a as o,c as a,b as s,d as c,_ as t}from"./index.94951983.js";const _={class:"wrapper-inner dashboard"},n={class:"container"},r={class:"row"},d={class:"col-12"},i={class:"directory"},u={__name:"DashBoard",setup(l){return e(()=>{}),(h,p)=>(o(),a("section",_,[s("div",n,[s("div",r,[s("div",d,[s("div",i,[c(t)])])])])]))}};export{u as default};
