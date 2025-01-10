@@ -12,3 +12,4 @@
 * [2024] 圖片格狀拼版工具：https://minruxie.github.io/joy-tools/#/public/sixteen-grider
 * [2024] 連續圖片預覽工具：https://minruxie.github.io/joy-tools/#/public/serial-pictures-reader
 * [2024] 待辦清單：https://minruxie.github.io/joy-tools/#/public/todo-list
+* [2025] 抽獎工具：https://minruxie.github.io/joy-tools/#/public/lottery-tool
