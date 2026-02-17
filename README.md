@@ -13,3 +13,4 @@
 * [2024] 連續圖片預覽工具：https://minruxie.github.io/joy-tools/#/public/serial-pictures-reader
 * [2024] 待辦清單：https://minruxie.github.io/joy-tools/#/public/todo-list
 * [2025] 抽獎工具：https://minruxie.github.io/joy-tools/#/public/lottery-tool
+* [2026] 圖片處理工具：https://minruxie.github.io/joy-tools/#/public/image-processer
